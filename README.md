@@ -2,13 +2,11 @@
 
 *Cinco noites. Dois dados. Uma pá. O Mestre quer corpos antes do amanhecer e não quer saber como.*
 
-![O Mestre](https://bolinhared.github.io/Yes_Master)
-
-**Sim, Mestre** é um jogo de estratégia e gestão de risco passado num cemitério. Durante cinco noites, tens de cumprir as encomendas do Mestre: encontrar corpos, abrir valas e entregar a quantidade exigida antes do amanhecer.
+**Sim, Mestre** é um jogo de estratégia, planeamento e gestão de risco passado num cemitério. Durante cinco noites, tens de cumprir as encomendas do Mestre: encontrar corpos, abrir valas e entregar a quantidade exigida antes do amanhecer.
 
 Cada turno é um pequeno quebra-cabeças. Lança dois dados, escolhe como os utilizar e planeia cuidadosamente o caminho da tua pá. O terreno fica marcado, os corpos esquecidos apodrecem e cada decisão pode comprometer as noites seguintes.
 
-O Mestre não aceita desculpas.
+**O Mestre não aceita desculpas.**
 
 ---
 
@@ -58,8 +56,6 @@ Não podes atravessar obstáculos, corpos podres ou a tua própria vala. Tens de
 
 ### Os seis métodos de escavação
 
-Cada resultado do dado corresponde a uma forma diferente de abrir caminho.
-
 | Dado | Método | Funcionamento |
 |---|---|---|
 | 1 | **Reta** | Uma linha reta a partir da lanterna, percorrendo toda a distância. |
@@ -68,20 +64,6 @@ Cada resultado do dado corresponde a uma forma diferente de abrir caminho.
 | 4 | **Divisão** | Dois braços retos a partir da lanterna, cuja soma corresponde à distância. A lanterna fica numa ponta e a outra é um beco sem saída. |
 | 5 | **Ramo** | Um ramo reto que começa em qualquer ponto da tua vala. A lanterna não se move e não podes ramificar a partir de outro ramo. |
 | 6 | **Horas extra** | Faz uma reta e recebe imediatamente um turno extra. Se voltares a tirar 6 nesse turno, fazes apenas uma reta. |
-
-### Os métodos em imagens
-
-| Reta | Curva |
-|---|---|
-| ![Reta](https://38b59428-7e62-4ff8-9a09-493102b64051.frame.claudeusercontent.com/_f/1793205249-89fe/img/m-reta.webp) | ![Curva](https://38b59428-7e62-4ff8-9a09-493102b64051.frame.claudeusercontent.com/_f/1793205249-89fe/img/m-curva.webp) |
-
-| Túnel | Divisão |
-|---|---|
-| ![Túnel](https://38b59428-7e62-4ff8-9a09-493102b64051.frame.claudeusercontent.com/_f/1793205249-89fe/img/m-tunel.webp) | ![Divisão](https://38b59428-7e62-4ff8-9a09-493102b64051.frame.claudeusercontent.com/_f/1793205249-89fe/img/m-divisao.webp) |
-
-| Ramo | Horas extra |
-|---|---|
-| ![Ramo](https://38b59428-7e62-4ff8-9a09-493102b64051.frame.claudeusercontent.com/_f/1793205249-89fe/img/m-ramo.webp) | ![Horas extra](https://38b59428-7e62-4ff8-9a09-493102b64051.frame.claudeusercontent.com/_f/1793205249-89fe/img/m-extra.webp) |
 
 ---
 
@@ -137,8 +119,6 @@ Ao fim da quinta noite, tens de entregar todos os corpos pedidos pelo Mestre.
 
 Se faltar apenas um, o destino é o mesmo: **o porão**.
 
-A classificação depende da tua eficiência:
-
 | Estrelas | Condição |
 |---|---|
 | ⭐ | Vencer as cinco noites. |
@@ -156,6 +136,12 @@ Conseguir três estrelas exige planeamento, gestão de recursos e alguma sorte n
 - **Poupa moedas:** os relançamentos podem fazer a diferença numa noite complicada.
 - **Escolhe bem os dados:** nem sempre a maior distância é a melhor opção.
 - **Pensa nas próximas noites:** cumprir a encomenda atual não chega se destruíres o acesso ao resto do cemitério.
+
+---
+
+## ▶️ Jogar
+
+[**Abrir Sim, Mestre**](https://bolinhared.github.io/Yes_Master/)
 
 ---
 
