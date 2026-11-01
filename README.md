@@ -2,7 +2,7 @@
 
 *Cinco noites. Dois dados. Uma pá. O Mestre quer corpos antes do amanhecer e não quer saber como.*
 
-![O Mestre](https://38b59428-7e62-4ff8-9a09-493102b64051.frame.claudeusercontent.com/_f/1793205249-89fe/img/mestre.webp)
+![O Mestre](https://bolinhared.github.io/Yes_Master)
 
 **Sim, Mestre** é um jogo de estratégia e gestão de risco passado num cemitério. Durante cinco noites, tens de cumprir as encomendas do Mestre: encontrar corpos, abrir valas e entregar a quantidade exigida antes do amanhecer.
 
